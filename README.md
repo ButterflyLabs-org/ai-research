@@ -11,4 +11,4 @@ We study how artificial intelligence can be made transparent, ethical, and benef
 
 ## Get Involved
 We welcome collaborators, contributors, and volunteers!  
-Learn more at [butterflylabs.org](https://butterflylabs.org)
+Learn more at [butterflylabs.org](https://www.butterflylabs.org)
